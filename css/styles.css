@@ -1,0 +1,227 @@
+body {
+    font-family:"Roboto",sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+ }
+.contacts {
+    font-style: normal;
+}
+.studio-n{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.studio-n:hover{
+   
+        color: #404bbf;
+}
+.studio-n:focus {
+ 
+        color: #404bbf;
+}
+
+
+
+
+
+
+.mailto {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.mailto:focus{
+    color: #404BBF;
+}
+.mailto:hover{
+    color: #404BBF;
+}
+
+
+
+.header{
+    background-color: #FFFFFF;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+   
+}
+
+
+.studio {
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2E2F42;
+}
+   
+
+
+.one {
+    background-color: #2e2f42;
+}
+
+
+
+
+.main-title {
+    font-family: 'Roboto';
+     font-weight: 'Bold' ;
+    font-size: 56px ;
+    letter-spacing: 0.02em ;
+    Line-Height: 60px;
+    line-height: 1.07;
+    text-align: center;
+    color: #ffffff;
+    }
+
+.button{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+      
+        
+        background: #4D5AE5;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+        line-height: 1.5;
+       }
+.but-name{
+    font-family: 'Roboto';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+       
+}
+
+.button:hover{
+   
+       
+        
+        
+            background: #404BBF;
+}
+.button:focus{
+    background-color: #404BBF;
+}
+
+
+.advant{
+    background-color: #FFFFFF;
+}
+.adul{
+    background-color: #FFFFFF;
+}
+.advant-title{
+   
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+            text-align: center;
+        color: #2e2f42;
+}
+.advant-title-n{
+    display: none;
+}
+.advant-title-h{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+      
+}
+.advant-p {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+
+
+.our-portfolio{
+    background-color: #FFFFFF
+}
+.our-time{
+    background-color: #F4F4FD;
+}
+
+ .aaa{
+    background-color: #F4F4FD;
+ } 
+ .aaa-p{
+    background-color: #FFFFFF;
+ }
+       
+
+
+
+.footer-p {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+}
+.footer {
+    background-color: #2e2f42;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+}
+.studio-f{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+}
+.header-f{
+    background-color: #2e2f42;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+
+

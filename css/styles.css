@@ -348,6 +348,7 @@ font-family: "Roboto", sans-serif;
      padding-left: 16px;
      background-color: #FFFFFF;
      text-align: center;
+    margin-bottom: 8px;
  }
 
 
@@ -372,7 +373,11 @@ font-family: "Roboto", sans-serif;
         width: calc((100% - 72px) / 4);
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         border-radius: 0 0 4px 4px;
-  }
+}
+.our-time-ittem-conteiner{
+    padding: 32px 0;
+
+}
 
   /*---------------------------------*/
 

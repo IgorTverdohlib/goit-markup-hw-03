@@ -121,7 +121,7 @@ ul {
   .contacts-list {
     display: flex;
    
-        
+        gap: 40px;
         justify-content: flex-end;
        
         

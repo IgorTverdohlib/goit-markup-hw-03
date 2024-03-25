@@ -285,6 +285,7 @@ font-family: "Roboto", sans-serif;
      padding-top: 32px;
      padding-left: 16px;
      background-color: #FFFFFF;
+     margin-bottom: 8px;
  }
  .advant-text{
     font-family: "Roboto", sans-serif;
@@ -323,7 +324,7 @@ font-family: "Roboto", sans-serif;
     text-align: center;
     color: #2e2f42;
     
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
  .our-time-list {

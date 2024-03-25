@@ -4,8 +4,6 @@ body {
     background-color: #FFFFFF;
     
     padding: 0;
-   
-    
 }
 * {
     margin: 0;
@@ -24,7 +22,6 @@ p{
 ul {
 margin: 0;
 padding-left: 0;
-
 }
 
 img {
@@ -52,8 +49,8 @@ ul {
     justify-content: space-between;
     margin: 0 auto;
     border-bottom: 1px solid #E7E9FC;
+   }
    
- }
  .page-container{
         display: flex;
         align-items: center;
@@ -276,10 +273,6 @@ font-family: "Roboto", sans-serif;
     display: flex;
     flex-direction: row;
     gap: 24px;
-   
-    
-   
-
 }
 .advant-ittem{
    

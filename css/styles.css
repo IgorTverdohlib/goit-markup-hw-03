@@ -425,8 +425,8 @@ font-family: "Roboto", sans-serif;
      justify-content: space-between;
    
      margin: 0 auto;
-     
-     padding-top: 100px;
+    padding-top: 100px;
+  padding-bottom: 100px;
    
     
 }
@@ -440,8 +440,9 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    margin-bottom: 16px;
+    display: inline-block;
+    
    
 }
 
@@ -464,8 +465,7 @@ font-family: "Roboto", sans-serif;
      color: #F4F4FD;
      display: flex;
      width: 264px;
-     margin-top: 16px;
-     margin-bottom: 100px;
+     
      
  }
 
